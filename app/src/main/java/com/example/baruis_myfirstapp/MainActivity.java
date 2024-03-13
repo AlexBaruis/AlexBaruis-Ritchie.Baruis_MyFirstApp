@@ -32,7 +32,7 @@ Button btton;
             @Override
             public void onClick(View view) {
                 String myValue = hello.getText().toString();
-                hello.setText("Hello alex!");
+                hello.setText("Hello Alex!");
             }
         });
     }
