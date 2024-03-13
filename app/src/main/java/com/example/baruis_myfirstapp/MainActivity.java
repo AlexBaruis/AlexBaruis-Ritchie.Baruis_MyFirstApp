@@ -26,7 +26,6 @@ Button btton;
         hello = (TextView) findViewById(R.id.txtView2);
         btton = (Button) findViewById(R.id.btn1);
 
-        //hello.setText("Hello Alex!");
 
         btton.setOnClickListener(new View.OnClickListener() {
             @Override
